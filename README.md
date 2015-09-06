@@ -1,2 +1,0 @@
-# PaintBall
-A PJS game
